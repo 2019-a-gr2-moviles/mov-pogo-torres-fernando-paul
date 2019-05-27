@@ -169,3 +169,93 @@ fun estaJalado(nota: Double): Double {
     }
     return nota
 }
+
+class Usuario{
+    public var nombre:String = "";
+    public var apellido:String;
+
+    constructor(apellido:String){
+        this.apellido = apellido;
+    }
+}
+
+class UsuarioKT(public var nombre:String,
+                public var apellido: String){
+    init{
+        println("");
+    }
+    fun hola():String{
+        return this.apellido;
+    }
+    fun hola2(){
+
+    }
+}
+
+fun nombres(){
+    val variable = UsuarioKT("Fernando","Pogo");
+    variable.apellido;
+
+}
+
+class BaseDeDatos{
+    companion object{
+        val usuarios = arrayListOf(1,2,3);
+        fun agregarUsuario(usuario:Int){
+            this.usuarios.add(usuario)
+        }
+        fun eliminarUsuario(usuario:Int){
+            //this.usuarios
+        }
+    }
+}
+
+class Usuario2(val cedula:String){
+    public var nombre:String="";
+    public var apellido:String="";
+    constructor (cedulaM:String, apellido:String):this(cedulaM){
+        this.apellido=apellido;
+    }
+
+    companion object{
+        val gravedad = 10.5;
+        fun correr(){
+            println("Estoy corriendo en $gravedad");
+        }
+    }
+}
+
+fun aa(){
+    Usuario2.gravedad;
+    Usuario2.correr();
+}
+
+open class Numeros(var numeroUno: Int,
+                    var numeroDos: Int){
+
+}
+
+class Suma(numeroUnos: Int,
+           numeroDoss:Int):
+    Numeros(numeroUnos,numeroDoss){
+}
+fun cc(){
+    val a= Suma(1,3);
+
+}
+
+fun presley(requerido:Int,
+            opcional:Int=1,
+            nulo : UsuarioKT?){
+    if(nulo != null){
+        nulo.nombre;
+    }
+    val nombresito = nulo?.nombre.toString();
+    nulo!!.nombre;
+    nombresito.toString();
+}
+fun cdd(){
+    presley(1, nulo=null);
+    //presley(1,1,0);
+    presley(1,1,null);
+}
