@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="usuario">Usuario</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="sistemasoperativos">Sistemas Operativos</string>
+    <string name="nuevoregistro">Nuevo Registro</string>
+    <string name="nombre">Nombre</string>
+    <string name="version">Versión</string>
+    <string name="fechalanzamiento">Fecha de Lanzamiento</string>
+    <string name="pesoengigas">Peso en Gigas</string>
+    <string name="instalado">Instalado</string>
+    <string name="registrar">Registrar</string>
+    <string name="SO">SOs</string>
+    <string name="descarga">Descarga</string>
+    <string name="fechalanzamientoapp">Fecha de Lanzamiento</string>
+    <string name="sistemaoperativoid">Sistema Operativo</string>
+    <string name="launchDate">Fecha de lanzamiento</string>
+    <string name="guarantyYears">Años de Garantía</string>
+    <string name="borrar">Borrar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="aplicaciones">Aplicaciones</string>
+    <string name="aplicacion">Registrar Aplicacion</string>
+    <string name="costo">Costo</string>
+    <string name="title_activity_sistemaoperativo">sistemaoperativo</string>
+</resources>
