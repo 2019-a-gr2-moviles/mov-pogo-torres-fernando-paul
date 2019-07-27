@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\d29039d76ebb5f0f3b0e3cde9df9070f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\36b779d3f9e954ff605455f9202900d5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7d9716ce4e1de2593ce5786561f60492\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\5f0be91d34128c9fcfe7ae66138e6d9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\e2b0711d5e308040e9fa98f4aff291a1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\24920b7497071c6bf3c25e5211816705\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\8e4e948e50151858e17607add2092ec4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\11d3738f30a694ddf434d4bafe17dbb0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\500fda7d29403c117272d40c725b21ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\fed12f973d52d268a1edf44a80d12968\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\d7229689a1033c6c8e220b1410474c16\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\ad81aad90dbdfe6702e699c3cb77f955\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\876e39c50e501d7e0cc16db0232d3a8a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\9ab30e0520090214dd3f25a363134819\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\a60d71a02b6b01616937f53d930ef696\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\df78010fff62c3cfa4dd7a614e19e967\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\a8361b6f2f12090d4ff2a52b56cbc4a6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\de3706dc9d9bb7fd63a51131d654ed6f\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\cfa229264723e172aa7bed74526dec9b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\73f664e264f8fdf461ba7ac13cf562e2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\48db7cb50d89e474689e75abf406d36b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\bd4f1e80e8c23320574bdfeb21a54711\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\74802f8771defb2b3648a53c6915ea11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\df7d55330bbcc1ff26485aa978894f65\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7ed54511cef7b08389e015be6039885c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\9d335bd688ba60012c606760412af6e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7928c1164f8a825505f237f66fce6c3c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\ceba6ab8d756ec489b5d254c27713551\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7d9716ce4e1de2593ce5786561f60492\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7d9716ce4e1de2593ce5786561f60492\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\a8361b6f2f12090d4ff2a52b56cbc4a6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\a8361b6f2f12090d4ff2a52b56cbc4a6\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\de3706dc9d9bb7fd63a51131d654ed6f\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\de3706dc9d9bb7fd63a51131d654ed6f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\a8361b6f2f12090d4ff2a52b56cbc4a6\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:11:9-40
+activity#ec.edu.epn.examen.MainActivity
+ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\d29039d76ebb5f0f3b0e3cde9df9070f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\d29039d76ebb5f0f3b0e3cde9df9070f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\36b779d3f9e954ff605455f9202900d5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\36b779d3f9e954ff605455f9202900d5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7d9716ce4e1de2593ce5786561f60492\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7d9716ce4e1de2593ce5786561f60492\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\5f0be91d34128c9fcfe7ae66138e6d9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\5f0be91d34128c9fcfe7ae66138e6d9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\e2b0711d5e308040e9fa98f4aff291a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\e2b0711d5e308040e9fa98f4aff291a1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\24920b7497071c6bf3c25e5211816705\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\24920b7497071c6bf3c25e5211816705\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\8e4e948e50151858e17607add2092ec4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\8e4e948e50151858e17607add2092ec4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\11d3738f30a694ddf434d4bafe17dbb0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\11d3738f30a694ddf434d4bafe17dbb0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\500fda7d29403c117272d40c725b21ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\500fda7d29403c117272d40c725b21ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\fed12f973d52d268a1edf44a80d12968\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\fed12f973d52d268a1edf44a80d12968\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\d7229689a1033c6c8e220b1410474c16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\d7229689a1033c6c8e220b1410474c16\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\ad81aad90dbdfe6702e699c3cb77f955\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\ad81aad90dbdfe6702e699c3cb77f955\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\876e39c50e501d7e0cc16db0232d3a8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\876e39c50e501d7e0cc16db0232d3a8a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\9ab30e0520090214dd3f25a363134819\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\9ab30e0520090214dd3f25a363134819\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\a60d71a02b6b01616937f53d930ef696\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\a60d71a02b6b01616937f53d930ef696\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\df78010fff62c3cfa4dd7a614e19e967\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\df78010fff62c3cfa4dd7a614e19e967\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\a8361b6f2f12090d4ff2a52b56cbc4a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\a8361b6f2f12090d4ff2a52b56cbc4a6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\de3706dc9d9bb7fd63a51131d654ed6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\de3706dc9d9bb7fd63a51131d654ed6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\cfa229264723e172aa7bed74526dec9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\cfa229264723e172aa7bed74526dec9b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\73f664e264f8fdf461ba7ac13cf562e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\73f664e264f8fdf461ba7ac13cf562e2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\48db7cb50d89e474689e75abf406d36b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\48db7cb50d89e474689e75abf406d36b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\bd4f1e80e8c23320574bdfeb21a54711\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\bd4f1e80e8c23320574bdfeb21a54711\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\74802f8771defb2b3648a53c6915ea11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\74802f8771defb2b3648a53c6915ea11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\df7d55330bbcc1ff26485aa978894f65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\df7d55330bbcc1ff26485aa978894f65\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7ed54511cef7b08389e015be6039885c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7ed54511cef7b08389e015be6039885c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\9d335bd688ba60012c606760412af6e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\9d335bd688ba60012c606760412af6e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7928c1164f8a825505f237f66fce6c3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\7928c1164f8a825505f237f66fce6c3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\ceba6ab8d756ec489b5d254c27713551\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\USUARIO\.gradle\caches\transforms-2\files-2.1\ceba6ab8d756ec489b5d254c27713551\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USUARIO\Documents\GitHub\mov-pogo-torres-fernando-paul\02-Examen\app\src\main\AndroidManifest.xml
