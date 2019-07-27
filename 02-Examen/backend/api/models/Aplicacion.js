@@ -38,11 +38,18 @@ module.exports = {
       type:'number',
       columnName:'COSTO'
     },
+    latitud:{
+      type:'string',
+      columnName:'LATITUD'
+    },
+    longitud:{
+      type:'string',
+      columnName:'LONGITUD'
+    },
     fkSistemaOperativo:{
       model:'SistemaOperativo',
       columnName:'FK_SISTEMA_OPERATIVO'
     }    
   },
-
 };
 
